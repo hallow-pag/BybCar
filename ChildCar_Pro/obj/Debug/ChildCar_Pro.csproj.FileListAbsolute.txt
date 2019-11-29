@@ -1,0 +1,28 @@
+E:\Visual Studio_test\ChildCar_Pro\ChildCar_Pro\bin\Debug\ChildCar_Pro.exe.config
+E:\Visual Studio_test\ChildCar_Pro\ChildCar_Pro\bin\Debug\ChildCar_Pro.exe
+E:\Visual Studio_test\ChildCar_Pro\ChildCar_Pro\bin\Debug\ChildCar_Pro.pdb
+E:\Visual Studio_test\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.csprojAssemblyReference.cache
+E:\Visual Studio_test\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.Form1.resources
+E:\Visual Studio_test\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.Properties.Resources.resources
+E:\Visual Studio_test\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.csproj.GenerateResource.cache
+E:\Visual Studio_test\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.csproj.CoreCompileInputs.cache
+E:\Visual Studio_test\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.csproj.CopyComplete
+E:\Visual Studio_test\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.exe
+E:\Visual Studio_test\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.pdb
+E:\Visual Studio_test\ChildCar_Pro\ChildCar_Pro\obj\Debug\Interop.MediaPlayer.dll
+E:\Visual Studio_test\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.csproj.ResolveComReference.cache
+E:\Visual Studio_test\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.Form2.resources
+C:\Users\yongk\Desktop\ChildCar_Pro\ChildCar_Pro\ChildCar_Pro\bin\Debug\ChildCar_Pro.exe.config
+C:\Users\yongk\Desktop\ChildCar_Pro\ChildCar_Pro\ChildCar_Pro\bin\Debug\ChildCar_Pro.exe
+C:\Users\yongk\Desktop\ChildCar_Pro\ChildCar_Pro\ChildCar_Pro\bin\Debug\ChildCar_Pro.pdb
+C:\Users\yongk\Desktop\ChildCar_Pro\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.csprojAssemblyReference.cache
+C:\Users\yongk\Desktop\ChildCar_Pro\ChildCar_Pro\ChildCar_Pro\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\yongk\Desktop\ChildCar_Pro\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.csproj.ResolveComReference.cache
+C:\Users\yongk\Desktop\ChildCar_Pro\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.Form1.resources
+C:\Users\yongk\Desktop\ChildCar_Pro\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.Form2.resources
+C:\Users\yongk\Desktop\ChildCar_Pro\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.Properties.Resources.resources
+C:\Users\yongk\Desktop\ChildCar_Pro\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.csproj.GenerateResource.cache
+C:\Users\yongk\Desktop\ChildCar_Pro\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.csproj.CopyComplete
+C:\Users\yongk\Desktop\ChildCar_Pro\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.exe
+C:\Users\yongk\Desktop\ChildCar_Pro\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.pdb
+C:\Users\yongk\Desktop\ChildCar_Pro\ChildCar_Pro\ChildCar_Pro\obj\Debug\ChildCar_Pro.Form3.resources
